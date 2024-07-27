@@ -39,6 +39,8 @@ Pick a couple of projects to get actively involved with. Build your network and 
 - [Fedora Documentation](https://docs.fedoraproject.org/en-US/fedora-docs/)
 - [Mozilla Developer Documentation](https://developer.mozilla.org/en-US/community)
 - [Up For Grabs](https://up-for-grabs.net/)
+- [Outreachy Internship](https://www.outreachy.org/apply/)
+- [Good First Issue](https://goodfirstissue.dev/)
 - [r/technicalwriting](https://www.reddit.com/r/technicalwriting/)
 
 ## Specializations
@@ -49,5 +51,3 @@ Pick a couple of projects to get actively involved with. Build your network and 
 - [Get Started on Your Technical Writing Portfolio](https://www.everythingtechnicalwriting.com/technical-writing-portfolio/)
 - [How to Write Content that Readers Will Read](https://www.everythingtechnicalwriting.com/how-to-write-content-that-readers-will-read/)
 - [Technical Writing Style Guide Examples](https://technicalwriterhq.com/writing/technical-writing/technical-writer-style-guide/)
-
-
