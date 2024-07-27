@@ -42,15 +42,12 @@ Pick a couple of projects to get actively involved with. Build your network and 
 - [r/technicalwriting](https://www.reddit.com/r/technicalwriting/)
 
 ## Specializations
-Learn how to customize your technical writing skills for GitLab
-[GitLab Technical Writing Fundamentals](https://university.gitlab.com/courses/gitlab-technical-writing-fundamentals)
-A lot of tech companies need writers for API documentation. Reference these resources if needed.
-[Documenting APIs](https://idratherbewriting.com/learnapidoc/)
-
+- [GitLab Technical Writing Fundamentals](https://university.gitlab.com/courses/gitlab-technical-writing-fundamentals)
+- [Documenting APIs](https://idratherbewriting.com/learnapidoc/)
 
 ## Additional Resources
-[Get Started on Your Technical Writing Portfolio](https://www.everythingtechnicalwriting.com/technical-writing-portfolio/)
-[How to Write Content that Readers Will Read](https://www.everythingtechnicalwriting.com/how-to-write-content-that-readers-will-read/)
-[Technical Writing Style Guide Examples](https://technicalwriterhq.com/writing/technical-writing/technical-writer-style-guide/)
+- [Get Started on Your Technical Writing Portfolio](https://www.everythingtechnicalwriting.com/technical-writing-portfolio/)
+- [How to Write Content that Readers Will Read](https://www.everythingtechnicalwriting.com/how-to-write-content-that-readers-will-read/)
+- [Technical Writing Style Guide Examples](https://technicalwriterhq.com/writing/technical-writing/technical-writer-style-guide/)
 
 
