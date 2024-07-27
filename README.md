@@ -7,7 +7,8 @@
   - [Things I've learned as a Technical Writer](#things-ive-learned-as-a-technical-writer)
   - [Return to English Language Basics](#return-to-english-language-basics)
   - [Get Involved](#get-involved)
-  - [Specializations](#specializations)
+  - [Use Your Contributions to Apply for Jobs](#use-your-contributions-to-apply-for-jobs)
+  - [Common Specializations](#common-specializations)
   - [Additional Resources](#additional-resources)
 
 ## What is Technical Writing?
@@ -43,7 +44,13 @@ Pick a couple of projects to get actively involved with. Build your network and 
 - [Good First Issue](https://goodfirstissue.dev/)
 - [r/technicalwriting](https://www.reddit.com/r/technicalwriting/)
 
-## Specializations
+## Use Your Contributions to Apply for Jobs
+- [How To Write A Technical Writer Resume](https://technicalwriterhq.com/career/technical-writer/technical-writer-resume/)
+- [Technical Writer Interview Questions](https://technicalwriterhq.com/career/technical-writer/technical-writer-interview-questions/)
+- [Google Technical Writer Interview Questions](https://technicalwriterhq.com/career/google-technical-writer/google-technical-writer-interview-questions/)
+- [Technical Writer Interview Process](https://www.youtube.com/watch?v=cqaEgMv2JAg&ab_channel=AmrutaRanade)
+
+## Common Specializations
 - [GitLab Technical Writing Fundamentals](https://university.gitlab.com/courses/gitlab-technical-writing-fundamentals)
 - [Documenting APIs](https://idratherbewriting.com/learnapidoc/)
 
